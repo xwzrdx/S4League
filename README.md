@@ -18,6 +18,8 @@ Arguably my biggest project with the most breakthroughs.
 * Realtime player shadows
 * Real widescreen support
 * Stretched resolution support (without changing resolution)
+* Custom Modes
+* Survival Mode
 
 
 **Server Implementations:**
