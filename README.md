@@ -32,7 +32,8 @@ Arguably my biggest project with the most breakthroughs.
 * Friends List & Friend Requests
 * Club System
 * Invite to room
-
+* Repair Weapons/Equipment (Energy)
+* Durability Deduction (Energy)
 
 ## Screenshots
 <img width="618" height="212" alt="image" src="https://github.com/user-attachments/assets/358df198-d447-402a-8f6e-c554332970cb" />
