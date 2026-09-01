@@ -11,7 +11,7 @@ Arguably my biggest project with the most breakthroughs.
 * All physics on high FPS (Weapon spread, Movement, Jumping, Flying, etc.)
 * FOV
 * Reworked Health Bars & Nametags
-* SP Bar
+* SP Bar (below nametag)
 * Damage Numbers
 * 3D World Ping System
 * Team aware Player Fresnels/Outlines
