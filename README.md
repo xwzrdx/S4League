@@ -34,6 +34,8 @@ Arguably my biggest project with the most breakthroughs.
 * Invite to room
 * Repair Weapons/Equipment (Energy)
 * Durability Deduction (Energy)
+* Stats (DM, BR, TD)
+* PEN/EXP gain from matches (DM, TD, BR, Chaser, including Bonus% EXP/PEN items)
 
 ## Screenshots
 <img width="618" height="212" alt="image" src="https://github.com/user-attachments/assets/358df198-d447-402a-8f6e-c554332970cb" />
