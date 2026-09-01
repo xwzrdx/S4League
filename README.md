@@ -30,7 +30,7 @@ Arguably my biggest project with the most breakthroughs.
 * Capsules
 * Daily Missions
 * Friends List & Friend Requests
-* Club System
+* Club System + /Clan Mark command
 * Invite to room
 * Repair Weapons/Equipment (Energy)
 * Durability Deduction (Energy)
@@ -52,6 +52,7 @@ Arguably my biggest project with the most breakthroughs.
 <img width="1812" height="1411" alt="image" src="https://github.com/user-attachments/assets/c10e5c55-8e23-4025-9ca8-d59bcb3bf531" />
 <img width="1695" height="1325" alt="image" src="https://github.com/user-attachments/assets/c4351b87-bae5-4f6d-ac55-2a0f2066496e" />
 <img width="1017" height="532" alt="image" src="https://github.com/user-attachments/assets/262b2c8b-f3d8-4930-9466-da1d705add2e" />
+<img width="347" height="735" alt="image" src="https://github.com/user-attachments/assets/9c9c42a3-2f51-4c6d-a00f-4707db256377" />
 
 
 
