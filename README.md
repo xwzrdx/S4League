@@ -20,7 +20,8 @@ Arguably my biggest project with the most breakthroughs.
 * Stretched resolution support (without changing resolution)
 * Custom Modes
 * Survival Mode
-
+* Minimap Compass
+* Minimap firing red dot ping locations
 
 **Server Implementations:**
 * Full Chaser Mode
