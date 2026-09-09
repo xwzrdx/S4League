@@ -37,6 +37,9 @@ Arguably my biggest project with the most breakthroughs.
 * Stats (DM, BR, TD)
 * PEN/EXP gain from matches (DM, TD, BR, Chaser, including Bonus% EXP/PEN items)
 
+# To Do
+* eSper chips
+
 ## Screenshots
 <img width="618" height="212" alt="image" src="https://github.com/user-attachments/assets/358df198-d447-402a-8f6e-c554332970cb" />
 <img width="676" height="191" alt="image" src="https://github.com/user-attachments/assets/813a89a7-f26d-4721-a079-0d0f9aead580" />
