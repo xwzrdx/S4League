@@ -64,6 +64,7 @@ Arguably my biggest project with the most breakthroughs.
 <img width="1695" height="1325" alt="image" src="https://github.com/user-attachments/assets/c4351b87-bae5-4f6d-ac55-2a0f2066496e" />
 <img width="1017" height="532" alt="image" src="https://github.com/user-attachments/assets/262b2c8b-f3d8-4930-9466-da1d705add2e" />
 <img width="347" height="735" alt="image" src="https://github.com/user-attachments/assets/9c9c42a3-2f51-4c6d-a00f-4707db256377" />
+<img width="321" height="70" alt="image" src="https://github.com/user-attachments/assets/9d923d68-6cbb-4bd7-a8a4-566a4520c4d5" />
 
 
 Discord: ``wzrd0001``
