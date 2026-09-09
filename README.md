@@ -23,6 +23,8 @@ Arguably my biggest project with the most breakthroughs.
 * Minimap firing red dot ping locations
 
 **Server Implementations:**
+* GM Chat
+* Colored names
 * Full Chaser Mode
 * Full Arcade Mode
 * Full Captain Mode
@@ -39,6 +41,10 @@ Arguably my biggest project with the most breakthroughs.
 
 # To Do
 * eSper chips
+
+
+
+
 
 ## Screenshots
 <img width="618" height="212" alt="image" src="https://github.com/user-attachments/assets/358df198-d447-402a-8f6e-c554332970cb" />
