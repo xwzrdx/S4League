@@ -1,9 +1,8 @@
 # S4League
 
-Server Emulator project for S4 League based on an incomplete emulator by wtfblub. Added tons of missing features.
+Server Emulator + ``.GUI`` Editor for S4 League - Season 1, Foundation is based on an incomplete emulator by wtfblub. Added tons of missing features.
 
 Arguably my biggest project with the most breakthroughs.
-
 
 
 **Client Fixes & Implementations:**
