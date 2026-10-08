@@ -1,6 +1,6 @@
 # S4League
 
-Server Emulator + ``.GUI`` Editor for S4 League - Season 1, Foundation is based on an incomplete emulator by wtfblub. Added tons of missing features.
+Server Emulator, Map Editor + ``.GUI`` Editor for S4 League - Season 1, Foundation is based on an incomplete emulator by wtfblub. Added tons of missing features.
 
 Arguably my biggest project with the most breakthroughs.
 
@@ -21,6 +21,8 @@ Arguably my biggest project with the most breakthroughs.
 * Survival Mode
 * Minimap Compass
 * Minimap firing red dot ping locations
+* Death Ragdoll Physics
+* Map Editor
 
 **Server Implementations:**
 * GM Chat
