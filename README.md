@@ -27,6 +27,7 @@ Arguably my biggest project with the most breakthroughs.
 * Death Camera rework
 * Inverse Kinematics
 * Map Editor
+* Multiplayer Skating
 
 **Server Implementations:**
 * Tickrate changed from 8 to 32 Hz
@@ -47,6 +48,7 @@ Arguably my biggest project with the most breakthroughs.
 * PEN/EXP gain from matches (DM, TD, BR, Chaser, including Bonus% EXP/PEN items)
 
 # To Do
+* Recompile into x64 c++ native
 * eSper chips
 * Combi
 
@@ -77,6 +79,10 @@ Arguably my biggest project with the most breakthroughs.
 
 
 https://github.com/user-attachments/assets/759a54cb-c6c5-4ba8-ac69-6bcf9ca9aedd
+
+
+
+https://github.com/user-attachments/assets/73211897-40fb-46fe-ac8b-6b32b94e3507
 
 
 
