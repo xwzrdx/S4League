@@ -29,6 +29,7 @@ Arguably my biggest project with the most breakthroughs.
 * Map Editor
 
 **Server Implementations:**
+* Tickrate changed from 8 to 32 Hz
 * GM Chat
 * Colored names
 * Full Chaser Mode
