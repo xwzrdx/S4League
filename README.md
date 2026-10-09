@@ -24,6 +24,7 @@ Arguably my biggest project with the most breakthroughs.
 * Death Ragdoll Physics
 * Controller Support with Aim Assist
 * Ambient Occlusion
+* Death Camera rework
 * Map Editor
 
 **Server Implementations:**
@@ -73,6 +74,10 @@ Arguably my biggest project with the most breakthroughs.
 
 https://github.com/user-attachments/assets/759a54cb-c6c5-4ba8-ac69-6bcf9ca9aedd
 
+
+
+
+https://github.com/user-attachments/assets/9ef5829b-f448-4182-88b0-6ecc45159dd6
 
 
 
