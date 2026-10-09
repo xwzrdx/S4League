@@ -23,6 +23,7 @@ Arguably my biggest project with the most breakthroughs.
 * Minimap firing red dot ping locations
 * Death Ragdoll Physics
 * Controller Support with Aim Assist
+* Ambient Occlusion
 * Map Editor
 
 **Server Implementations:**
