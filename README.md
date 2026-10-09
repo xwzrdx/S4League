@@ -26,6 +26,7 @@ Arguably my biggest project with the most breakthroughs.
 * Ambient Occlusion
 * Death Camera rework
 * Inverse Kinematics
+* Reload while Sprinting
 * Map Editor
 * Multiplayer Skating
 
