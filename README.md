@@ -25,6 +25,7 @@ Arguably my biggest project with the most breakthroughs.
 * Controller Support with Aim Assist
 * Ambient Occlusion
 * Death Camera rework
+* Inverse Kinematics
 * Map Editor
 
 **Server Implementations:**
@@ -70,6 +71,8 @@ Arguably my biggest project with the most breakthroughs.
 <img width="1017" height="532" alt="image" src="https://github.com/user-attachments/assets/262b2c8b-f3d8-4930-9466-da1d705add2e" />
 <img width="347" height="735" alt="image" src="https://github.com/user-attachments/assets/9c9c42a3-2f51-4c6d-a00f-4707db256377" />
 <img width="321" height="70" alt="image" src="https://github.com/user-attachments/assets/9d923d68-6cbb-4bd7-a8a4-566a4520c4d5" />
+<img width="917" height="676" alt="image" src="https://github.com/user-attachments/assets/66a089dc-602a-4cf4-a2ff-0e9e9bdedc23" />
+
 
 
 https://github.com/user-attachments/assets/759a54cb-c6c5-4ba8-ac69-6bcf9ca9aedd
